@@ -1,0 +1,6 @@
+splits/
+metadata/birds.csv
+
+.DS_Store
+EfficientNetB0-525-(224 X 224)- 98.97.h5
+
