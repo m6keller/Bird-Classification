@@ -8,3 +8,5 @@ Using the BIRDS [525 SPECIES- IMAGE CLASSIFICATION](https://www.kaggle.com/datas
 # Comparison Metric
 Use accuracy - just set up inference folder so that it can take this
 
+# Later
+look into using tabular data
