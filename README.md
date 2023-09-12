@@ -8,5 +8,9 @@ Using the BIRDS [525 SPECIES- IMAGE CLASSIFICATION](https://www.kaggle.com/datas
 # Comparison Metric
 Use accuracy - just set up inference folder so that it can take this
 
+# TODO
+[] look into whether using one hot encoding works better or no
+[] collect time to train and cpu/gpu necessary
+[] benchmark dataset against popular image class NN and one ViT
 # Later
 look into using tabular data
